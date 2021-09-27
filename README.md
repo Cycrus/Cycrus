@@ -1,6 +1,6 @@
 # Cycrus
 
-:microbe: This is the profile of Cycrus, or Cyril, a scientific psychologist currently studying computer sciences
+:microbe: This is Cycrus, or Cyril, a scientific psychologist currently studying computer sciences
 and working in the automotive industry.
 
 :microbe: I have a strong interest in neural network architectures and interdisciplinarily connecting this area
