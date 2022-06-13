@@ -1,6 +1,6 @@
 # WhoAmI?
 
-:microbe: I am a cognitive science researcher currently studying computer sciences
+:microbe: I am a professional cognitive science researcher currently studying computer sciences
 and working in the automotive industry for development of driver monitoring systems.
 
 :microbe: I have a strong interest in neural network architectures, reinforcement learning and interdisciplinarily connecting computer sciences with psychological and cognitive concepts.
