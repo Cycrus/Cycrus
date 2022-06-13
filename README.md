@@ -1,4 +1,4 @@
-# Cycrus
+# WhoAmI
 
 :microbe: I am a cognitive science researcher currently studying computer sciences
 and working in the automotive industry for development of driver monitoring systems.
