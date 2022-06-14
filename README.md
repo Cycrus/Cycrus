@@ -1,7 +1,7 @@
 # WhoAmI?
 
 :microbe: I am a professional cognitive science researcher and engineering psychologist currently studying computer sciences
-and working in the automotive industry for development of driver monitoring systems.
+and working in the automotive industry for development and researching of driver monitoring systems.
 
 :microbe: I have a strong interest in neural network architectures, reinforcement learning and interdisciplinarily connecting computer sciences with psychological and cognitive concepts.
 
