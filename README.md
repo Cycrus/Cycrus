@@ -9,6 +9,6 @@ and working in the automotive industry for development and researching of driver
 
 :microbe: Let's do some research!
 
-[Twitter](https://twitter.com/cyril_marx)
-
-[Intagram](https://www.instagram.com/cyril.marx.dev/)
+## Social Media
+- [Twitter](https://twitter.com/cyril_marx)
+- [Intagram](https://www.instagram.com/cyril.marx.dev/)
