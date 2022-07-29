@@ -1,4 +1,4 @@
-# WhoAmI?
+# Hello Stranger
 
 :microbe: I am a professional cognitive science researcher and engineering psychologist currently studying computer sciences
 and working in the automotive industry for development and researching of driver monitoring systems.
