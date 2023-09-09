@@ -1,4 +1,4 @@
-# Hello Stranger
+# Hello Dear Visitor
 
 :eyeglasses: I am a professional software developer with a Masters degree in cognitive sciences currently working on high usability fluid human machine interfaces and machine learning driven driver monitoring systems.
 
