@@ -1,6 +1,6 @@
 # Hello Dear Visitor
 
-:eyeglasses: I am a professional software developer with a degree in psychology currently working on high usability fluid human machine interfaces and machine learning driven driver monitoring systems.
+:eyeglasses: I am a professional software developer with a degree in psychology currently working on high reliability measurement systems.
 
 :eyeglasses: I have a strong personal interest in systems engineering, robotics, reinforcement learning, virtual reality, and generally everything futuristic.
 
